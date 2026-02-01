@@ -21,6 +21,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - ![CSIS](https://img.shields.io/badge/CompTIA-CSIS-ED1C24?style=flat&logo=comptia&logoColor=white)
 - ![CIOS](https://img.shields.io/badge/CompTIA-CIOS-ED1C24?style=flat&logo=comptia&logoColor=white)
 
+  **Credly Certification Verification**
+  
+- [![Verify on Credly](https://img.shields.io/badge/Credly-Verify%20Certifications-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/jess-morrison.9e987fcc/badges#credly)
 
 
 <h2> 🤳 Connect with me:</h2>
