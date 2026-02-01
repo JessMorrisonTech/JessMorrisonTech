@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> 🛡️ SOC Alert Triage – Phishing Investigation (SOC Simulator)</b>
-  - [Phishing Detection, Correlation, and Escalation](https://github.com/jessmorrisontech/SOC_Alert_Triage-Phishing_Investigation)
+  - [Phishing Detection, Correlation, and Escalation](https://github.com/JessMorrisonTech/SOC-Alert-Triage-Phishing-Investigation/blob/main/README.md)
 - <b>Next Lab coming soon</b>
   - [Coming Soon](https://github.com/jessmorrisontech)
 
