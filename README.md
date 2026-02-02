@@ -1,13 +1,48 @@
-# <a href="https://www.linkedin.com/in/jesswmorrison/">Jess Morrison</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jesswmorrison/">Jess Morrison</a>  SOC Analyst | Blue Team | Cybersecurity 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+SOC-focused cybersecurity professional with hands-on experience supporting and investigating security alerts in production environments. Background includes SOC simulation labs, phishing investigations, and real-world exposure to email security operations using KnowBe4, Egress Defend, and PhishER SOAR automation.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+---
 
-- <b> 🛡️ SOC Alert Triage – Phishing Investigation (SOC Simulator)</b>
-  - [Phishing Detection, Correlation, and Escalation](https://github.com/JessMorrisonTech/SOC-Alert-Triage-Phishing-Investigation/blob/main/README.md)
-- <b>Next Lab coming soon</b>
-  - [Coming Soon](https://github.com/jessmorrisontech)
+## 👨‍💻 SOC & Blue Team Projects
+
+### 🛡️ SOC Alert Triage – Phishing Investigation (SOC Simulator)
+- Simulated SOC investigations involving phishing alerts, SIEM log analysis, event correlation, false positive validation, and escalation decisions based on real-world impact  
+- Focused on investigative reasoning rather than step-by-step walkthroughs  
+- [View Project Repository](https://github.com/JessMorrisonTech/SOC-Alert-Triage-Phishing-Investigation)
+
+### 🔎 Upcoming SOC Projects
+- SOC Simulator investigations (endpoint and post-compromise analysis)
+- Blue team detection and response labs
+- Expanded SIEM correlation and escalation scenarios
+
+---
+ 
+## 🏢 Professional Security Experience
+
+### Email Security Operations & Alert Triage (KnowBe4)
+
+- Support customers configure and investigate email security alerts using Egress Defend and KnowBe4 PhishER
+- Assisted in management and creation of YARA rules to improve detection accuracy and workflows
+- Assisted in management and creation of PhishER Actions to automate alert handling and response workflows
+- Assisted customers with phishing response processes and remediation recommendations
+- Gained hands-on exposure to SOAR-style automation in a production security environment
+
+---
+
+## 🧠 Core Skills & Tools
+
+- SOC Alert Triage & Incident Escalation
+- Phishing Detection & Analysis
+- SIEM Log Analysis (Splunk-style)
+- Email Security Operations
+- Threat Intelligence Validation
+- YARA Rule Creation & Tuning
+- SOAR Automation 
+- Email & Firewall Log Correlation
+- Incident Documentation 
+
+---
 
 <h2>📜 Current Certifications</h2>
 
@@ -25,9 +60,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 - [![Verify on Credly](https://img.shields.io/badge/Credly-Verify%20Certifications-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/jess-morrison.9e987fcc/badges#credly)
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me</h2>
 
-[<img align="left" alt="JessMorrison | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/jesswmorrison/
+- [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesswmorrison/)
