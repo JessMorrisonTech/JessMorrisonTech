@@ -4,17 +4,33 @@ SOC-focused cybersecurity professional with hands-on experience supporting and i
 
 ---
 
-## 👨‍💻 SOC & Blue Team Projects
+# SOC & Blue Team Projects
 
-### 🛡️ SOC Alert Triage – Phishing Investigation (SOC Simulator)
-- Simulated SOC investigations involving phishing alerts, SIEM log analysis, event correlation, false positive validation, and escalation decisions based on real-world impact  
-- Focused on investigative reasoning rather than step-by-step walkthroughs  
-- [View Project Repository](https://github.com/JessMorrisonTech/SOC-Alert-Triage-Phishing-Investigation)
+These SOC and Blue Team projects demonstrate my skills in alert triage, multi-source log correlation, behavioral analysis, incident escalation, and other related competencies.
 
-### 🔎 Upcoming SOC Projects
-- SOC Simulator investigations (endpoint and post-compromise analysis)
-- Blue team detection and response labs
-- Expanded SIEM correlation and escalation scenarios
+## 🛡️ Completed SOC Labs
+
+### 1. SOC Alert Triage – Phishing Investigation (SOC Simulator)
+- Simulated SOC investigation focusing on phishing alerts, SIEM log analysis, and event correlation  
+- Validated false positives and escalated true positives based on real-world impact  
+- Emphasized investigative reasoning and decision-making  
+
+[View Project Repository](https://github.com/JessMorrisonTech/SOC-Alert-Triage-Phishing-Investigation/blob/main/README.md)
+
+### 2. SOC Alert Triage – Post-Compromise / Data Exfiltration Investigation (SOC Simulator)
+- Simulated post-compromise scenario including PowerShell-based exfiltration, network drive pivoting, and DNS misuse  
+- Correlated multi-source telemetry (email, firewall, network, and host logs) to identify compromised hosts and exfiltration attempts  
+- Focused on behavioral analysis, IOC identification, and escalation decisions  
+
+[View Project Repository](https://github.com/JessMorrisonTech/SOC-Alert-Triage-Phishing-to-Data-Exfiltration-SOC-Simulator-)
+
+---
+
+## 🔎 Upcoming SOC & Blue Team Projects
+- Advanced SOC Simulator investigations (endpoint and post-compromise analysis)  
+- Blue team detection and response labs  
+- Expanded SIEM correlation and escalation scenarios  
+- Threat hunting exercises and behavior-based detection pipelines
 
 ---
  
